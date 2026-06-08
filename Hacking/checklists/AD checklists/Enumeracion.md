@@ -1,0 +1,4 @@
+ - [ ] escaneos con [[nmap]] 
+- [ ] escaneo con [[Netexec]] 
+- [ ] Nullsession con [[rcpclient]]
+- [ ] 
