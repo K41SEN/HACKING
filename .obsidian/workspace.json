@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Explotacion/AD/ASREP roastin.md",
+                "file": "Hacking/Explotacion/AD/ASREP roasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASREP roastin"
+              "title": "ASREP roasting"
             }
           }
         ]
@@ -185,29 +185,30 @@
   },
   "active": "b0f4969b123db186",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20260608230353.png",
+    "Imagenes/Pasted image 20260608225905.png",
+    "Imagenes/Pasted image 20260608224949.png",
+    "Imagenes/Pasted image 20260608224632.png",
+    "Pasted image 20260608224552.png",
+    "Hacking/Explotacion/AD/LLMNR Poisoning.md",
+    "Hacking/Explotacion/AD/ntlm relaying por ipv4.md",
+    "Hacking/Explotacion/AD/Password in description.md",
+    "Hacking/Explotacion/AD/kerberoasting.md",
+    "Hacking/Explotacion/AD/ASREP roasting.md",
     "Imagenes",
     "Hacking/Sin nombre",
-    "Hacking/Explotacion/AD/kerberoasting.md",
-    "Hacking/Explotacion/AD/ASREP roastin.md",
     "Hacking/Errores.md",
     "Hacking/Maquinas HTB",
     "Imagenes/Pasted image 20260607230707.png",
     "Imagenes/Pasted image 20260607230551.png",
-    "Hacking/Explotacion/AD/Password in description.md",
     "Hacking/Herramientas/Herrores",
     "Hacking/checklists/AD checklists/Enumeracion.md",
     "Hacking/Herramientas/Netexec.md",
     "Imagenes/Pasted image 20260607164744.png",
     "Imagenes/Pasted image 20260607164337.png",
     "Pasted image 20260607164312.png",
-    "Hacking/Explotacion/AD/ntlm relaying por ipv4.md",
     "Imagenes/Pasted image 20260607154821.png",
-    "Imagenes/Pasted image 20260607154457.png",
-    "Imagenes/Pasted image 20260607154402.png",
     "Hacking/Herramientas/ntlmrelayx.md",
-    "Imagenes/Pasted image 20260607153307.png",
-    "Imagenes/Pasted image 20260607153100.png",
-    "Hacking/Explotacion/AD/LLMNR Poisoning.md",
     "Hacking/Herramientas/Responder.md",
     "Hacking/Herramientas/grep.md",
     "Hacking/Herramientas/john the ripper.md",
@@ -221,7 +222,6 @@
     "Hacking/checklists",
     "Hacking/Explotacion/Sin título.md",
     "Hacking/Explotacion/Hacking web",
-    "Hacking/Explotacion/AD",
     "Sin título.md",
     "Hacking/Bienvenido.md"
   ]
