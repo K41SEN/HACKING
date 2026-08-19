@@ -1,4 +1,4 @@
-
+- [x] smbv
 # enumerar computadores del dominio:
 
 

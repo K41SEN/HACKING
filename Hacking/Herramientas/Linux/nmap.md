@@ -1,7 +1,7 @@
 # Buscar puertos de un host
 
 ```python
-sudo nmap -p- {IP} --min-rate 5000 -Pn -vvv -sS
+sudo nmap -p- {IP} --min-rate 5000 -Pn -vvv -sS -n
 ```
 
 - ****-p-*** : esta opción es para que nuestro escaneo revise todos los 65535 puertos 
@@ -9,6 +9,7 @@ sudo nmap -p- {IP} --min-rate 5000 -Pn -vvv -sS
 -  ***-Pn*** : esta opción es para  que no haga pruebas ping no esperar la respuesta de cada puerto porque seria demasiado lento  
 - ***-vvv*** : esta opción se llama verbose y se usa para ver información 
 - ***sS*** : esta opción es para hacer un  syn port scan lo que significa   que le preguntamos a la maquina si esta escuchando y si nos autoriza pero  corta la comunicación a mitad de camino porque solo queríamos sabes si estaba viva  
+- **-n** : se usa para que no haga resolución  dns
 
 
 # Escaneo de versiones y servicios
@@ -22,4 +23,10 @@ sudo nmap -p22,80,445 -sVC {IP} -T5 -v
 - ***-T5*** : esta opción es para la velocidad y agresividad que queremos en el escaneo también tenemos  T4 - T3 -T2 
 - ***v*** :  es verbose  para ver información  
 
+# Busqueda de  vulneravilidades 
 
+```python
+nmap -p445 --script vuln {IP}
+```
+
+normalmente en una maquina de Windows  si encontramos  un Windows viejo y además encontramos un smb1 podríamos tener posiblemente una vulnerabilidad eternal blue, con esto podemos si nuestro entorno es vulnerable 

@@ -1,3 +1,4 @@
+ - [ ] Ping cuando es cercano a 128 es Windows 
  - [ ] escaneos con [[nmap]] 
 - [ ] escaneo con [[Netexec]] 
 - [ ] Nullsession con [[rcpclient]]

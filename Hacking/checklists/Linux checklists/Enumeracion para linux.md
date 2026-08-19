@@ -1,0 +1,3 @@
+- [ ] PING ver si esta viva y ver  que sistema operativo es  cuando es cercano a 64 es linux 
+- [ ] [[nmap]]
+- [ ] 
